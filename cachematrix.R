@@ -47,8 +47,8 @@ cacheSolve <- function(x, ...) {
     m
 }
 
-## Example matrix for testing
-## remove "#" for testing
+# Example matrix for testing
+# remove "#" for testing
 # X <- matrix(rnorm(9), 3)
 # X
 # mCM <- makeCacheMatrix(X)
